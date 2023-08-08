@@ -36,44 +36,44 @@ const Navbar = () => {
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center justify-between w-full lg:pt-12 ">
             <div className="flex items-center space-x-16 flex-shrink-0">
-              <a href="#">
+              <a href="#home">
                 <img src={Images.logo} alt="" className="w-[109px] h-[53px]" />
               </a>
             </div>
             <div className="hidden lg:block pt-2 ">
               <div className=" flex items-baseline space-x-5 2xl:space-x-9">
                 <a
-                  href="#"
+                  href="#home"
                   className="text-black-100 font-metropolis font-semibold tracking-widest text-xs uppercase"
                 >
                   Retail
                 </a>
                 <a
-                  href="#"
+                  href="#home"
                   className="text-black-100 font-metropolis font-semibold tracking-widest text-xs uppercase"
                 >
                   SME
                 </a>
                 <a
-                  href="#"
+                  href="#home"
                   className="text-black-100 font-metropolis font-semibold tracking-widest text-xs uppercase"
                 >
                   Corporate
                 </a>
                 <a
-                  href="#"
+                  href="#home"
                   className="text-black-100 font-metropolis font-semibold tracking-widest text-xs uppercase"
                 >
                   About Us
                 </a>
                 <a
-                  href="#"
+                  href="#home"
                   className="text-black-100 font-metropolis font-semibold tracking-widest text-xs uppercase"
                 >
                   Covid 19
                 </a>
                 <a
-                  href="#"
+                  href="#home"
                   className="text-black-100 font-metropolis font-semibold tracking-widest text-xs uppercase"
                 >
                   Campgains
@@ -153,43 +153,43 @@ const Navbar = () => {
           </button>
         </div>
         <div className="flex items-center justify-center pb-6 py-3">
-          <a href="#">
+          <a href="#home">
             <img src={Images.logo} alt="" className="w-[109px] h-[53px]" />
           </a>
         </div>
         <div className="p-4  space-y-7">
           <a
-            href="#"
+            href="#home"
             className="block text-black-100 font-metropolis font-semibold tracking-widest text-xs uppercase"
           >
             Retail
           </a>
           <a
-            href="#"
+            href="#home"
             className="block text-black-100 font-metropolis font-semibold tracking-widest text-xs uppercase"
           >
             SME
           </a>
           <a
-            href="#"
+            href="#home"
             className="block text-black-100 font-metropolis font-semibold tracking-widest text-xs uppercase"
           >
             Corporate
           </a>
           <a
-            href="#"
+            href="#home"
             className="block text-black-100 font-metropolis font-semibold tracking-widest text-xs uppercase"
           >
             About Us
           </a>
           <a
-            href="#"
+            href="#home"
             className="block text-black-100 font-metropolis font-semibold tracking-widest text-xs uppercase"
           >
             Covid 19
           </a>
           <a
-            href="#"
+            href="#home"
             className="block text-black-100 font-metropolis font-semibold tracking-widest text-xs uppercase"
           >
             Campgains
